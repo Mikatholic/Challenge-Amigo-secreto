@@ -1,6 +1,6 @@
 <img width="1111" height="679" alt="Captura de pantalla 2025-07-28 181833" src="https://github.com/user-attachments/assets/cac378df-672b-4740-9b20-a2c85619c663" />
 
-# Challenge-Amigo-secreto
+# Challenge: Amigo Secreto
 Este proyecto es una aplicación web para organizar un sorteo. 
 Permite a los usuarios ingresar nombres de sus amigos y luego seleccionar aleatoriamente a un ganador.
 
