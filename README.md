@@ -21,14 +21,13 @@ Permite a los usuarios ingresar nombres de sus amigos y luego seleccionar aleato
 - Ingresa los nombres de los participantes en el campo de texto y haz clic en el botón "Añadir" para agregarlos a la lista.
 - Una vez que hayas agregado a todos los participantes, haz clic en el botón "Sortear amigo" para revelar el nombre del amigo secreto.
 
-Estructura del Proyecto
-.
-├── index.html          // Estructura principal de la página web
-├── style.css           // Estilos de la aplicación
-├── app.js              // Lógica de JavaScript (añadir nombres, sortear, etc.)
-└── assets/             // Carpeta para imágenes y recursos
-    ├── amigo-secreto.png
-    └── play_circle_outline.png
+# Estructura del Proyecto
+- index.html : Estructura principal de la página web
+- style.css  : Estilos de la aplicación
+- app.js     : Lógica de JavaScript (añadir nombres, sortear, etc.)
+- assets     : Carpeta para imágenes y recursos
+  - amigo-secreto.png
+  - play_circle_outline.png
 
 # Contribuciones
 Si tienes alguna idea para mejorar este proyecto o encuentras algún error, ¡no dudes en abrir un issue o enviar un pull request!
